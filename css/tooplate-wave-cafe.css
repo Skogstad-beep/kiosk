@@ -51,6 +51,7 @@ h2 { margin-top: 0; }
     background-color: rgba(0, 0, 0, 0.5); /* Sort bakgrunn med 50% gjennomsiktighet */
     padding: 10px; /* Gjør bakgrunnen mer synlig rundt teksten */
     border-radius: 5px; /* Legg til avrundede kanter */
+    text-align: center; /* Sentrer teksten */
 }
 
 .tm-video-wrapper { position: relative; }
