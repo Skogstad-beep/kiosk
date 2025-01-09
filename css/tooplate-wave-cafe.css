@@ -44,6 +44,15 @@ h2 { margin-top: 0; }
     z-index: -1000;
 }
 
+#footish {
+    color: white;
+    font-style: italic;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Sort bakgrunn med 50% gjennomsiktighet */
+    padding: 10px; /* Gjør bakgrunnen mer synlig rundt teksten */
+    border-radius: 5px; /* Legg til avrundede kanter */
+}
+
 .tm-video-wrapper { position: relative; }
 
 #tm-video-control-button {
